@@ -1,0 +1,14 @@
+C:\Users\PC1\source\repos\IT481_Unit6_IvanMartinovich\bin\Debug\IT481_Unit6_IvanMartinovich.exe.config
+C:\Users\PC1\source\repos\IT481_Unit6_IvanMartinovich\bin\Debug\IT481_Unit6_IvanMartinovich.exe
+C:\Users\PC1\source\repos\IT481_Unit6_IvanMartinovich\bin\Debug\IT481_Unit6_IvanMartinovich.pdb
+C:\Users\PC1\source\repos\IT481_Unit6_IvanMartinovich\obj\Debug\IT481_Unit6_IvanMartinovich.csproj.AssemblyReference.cache
+C:\Users\PC1\source\repos\IT481_Unit6_IvanMartinovich\obj\Debug\IT481_Unit6_IvanMartinovich.csproj.CoreCompileInputs.cache
+C:\Users\PC1\source\repos\IT481_Unit6_IvanMartinovich\obj\Debug\IT481_Unit6_IvanMartinovich.exe
+C:\Users\PC1\source\repos\IT481_Unit6_IvanMartinovich\obj\Debug\IT481_Unit6_IvanMartinovich.pdb
+C:\Users\ivanm\source\repos\IT481_Unit6_IvanMartinovich\obj\Debug\IT481_Unit6_IvanMartinovich.csproj.AssemblyReference.cache
+C:\Users\ivanm\source\repos\IT481_Unit6_IvanMartinovich\obj\Debug\IT481_Unit6_IvanMartinovich.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\IT481_Unit6_IvanMartinovich\obj\Debug\IT481_Unit6_IvanMartinovich.exe
+C:\Users\ivanm\source\repos\IT481_Unit6_IvanMartinovich\obj\Debug\IT481_Unit6_IvanMartinovich.pdb
+C:\Users\ivanm\source\repos\IT481_Unit6_IvanMartinovich\bin\Debug\IT481_Unit6_IvanMartinovich.exe.config
+C:\Users\ivanm\source\repos\IT481_Unit6_IvanMartinovich\bin\Debug\IT481_Unit6_IvanMartinovich.exe
+C:\Users\ivanm\source\repos\IT481_Unit6_IvanMartinovich\bin\Debug\IT481_Unit6_IvanMartinovich.pdb
